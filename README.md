@@ -4,7 +4,7 @@
 
 ## 📝 内容
 
-[八股](https://icnq2iubfb9y.feishu.cn/wiki/TdGLwvHgQiyraEk0efPcZsDMnVb?from=from_copylink)
+[[八股](https://icnq2iubfb9y.feishu.cn/wiki/TdGLwvHgQiyraEk0efPcZsDMnVb?from=from_copylink)]
 
 ## 说明
 
