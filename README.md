@@ -1,16 +1,16 @@
-# 面试常用八股文题库
+# 'Eight Pigs' Q in interviews
 
-个人整理的一些面试常见问题，仅供参考学习。
+本🥬🐔最近面试时遇到的一些常见问题整理，仅供参考。
 
 ## 📝 内容
 
-[在线文档地址](https://icnq2iubfb9y.feishu.cn/wiki/TdGLwvHgQiyraEk0efPcZsDMnVb?from=from_copylink)
+[八股](https://icnq2iubfb9y.feishu.cn/wiki/TdGLwvHgQiyraEk0efPcZsDMnVb?from=from_copylink)
 
 ## 说明
 
 - 内容持续更新中
 - 如有错误欢迎指正
-- 仅作学习交流使用
+- 别骂了，🥬🐔也要学习🥺
 
 ---
 
