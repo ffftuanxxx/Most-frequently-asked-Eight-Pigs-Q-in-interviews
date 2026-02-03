@@ -14,5 +14,4 @@
 ---
 
 **欢迎 Star 和交流**
-https://github.com/user-attachments/assets/4a9def67-aa65-4200-8aef-d99cb7a12ee6
-
+![Ishika_Guha_-_Cho_KaguyaHime_N8QlAl](https://github.com/user-attachments/assets/0fdbacd2-8cf5-480d-b498-05ae477049b1)
